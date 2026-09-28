@@ -6,7 +6,7 @@
 from .volumeViewer import *
 from .graphCut import *
 import numpy as np
-from matplotlib.widgets import Button
+from matplotlbib.widgets import Button
 import matplotlib.pyplot as plt
 
 
